@@ -7,9 +7,7 @@
 - How to reach me: https://jerrie-bright.github.io/
 - Writing ML Contributor. Check out my blogs: https://jerrie-bright.github.io/blog.html
 
-<p align="center">
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=jerrie-bright&show_icons=true)
-</p>
+![My github stats](https://github-readme-stats.vercel.app/api?username=jerrie-bright&show_icons=true)
 
 <hr>
 <p align="center">
