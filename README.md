@@ -5,3 +5,6 @@
 - I’m currently working on Robotic Operating System for autonomous navigation of UAVs.
 - Open for Collaborations, Project Assistance, Pro bono and volunteering.
 - How to reach me: https://jerrie-bright.github.io/
+- Writing ML Contributor. Check out my blogs: https://jerrie-bright.github.io/blog.html
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=jerrie-bright&show_icons=true)
