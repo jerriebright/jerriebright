@@ -9,7 +9,6 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jerrie-bright&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrie-bright&layout=compact&theme=tokyonight)](https://github.com/jerrie-bright/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jerrie-bright&theme=tokyonight)](https://github.com/jerrie-bright/github-readme-stats)
 
 <hr>
 <p align="center">
