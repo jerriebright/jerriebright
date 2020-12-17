@@ -1,4 +1,4 @@
-### Hey there, I'm Jerrin!!! https://camo.githubusercontent.com/2fc968ca4c820cbc83b8d46b496a26aa43c1b410db46767540537d86a7502688/68747470733a2f2f66696c65732e6161736875746f73682e6465762f6865792e676966
+### Hey there, I'm Jerrin!!! 👋
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a third-year undergraduate student in Vellore Institute of Technology - Chennai, pursing a Bachelor of Technology course in Mechanical Engineering.
  <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I want to take up an exacting position in the industry, where I could work on R&D and traverse new paths in Intelligent Robotics. Bearing these long-term goals in mind, my immediate objective is to work on several prominent research activities that would boost my profile and my skills, whose importance in laying a strong foundation for a successful career in research is paramount.
 
