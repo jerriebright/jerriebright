@@ -8,6 +8,7 @@
 - Writing ML Contributor. Check out my blogs: https://jerrie-bright.github.io/blog.html
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jerrie-bright&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 <p align="center">
