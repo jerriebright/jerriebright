@@ -13,11 +13,11 @@
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 <p align="center">
-    <a href="https://twitter.com/imdhruv_28" alt="Twitter"><img src="https://github.com/jerrie-bright/jerrie-bright/blob/master/readme/twitter.png"></a>
-    <a href="https://www.linkedin.com/in/dhruv-prajapati-151b88176/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
-    <a href="https://www.instagram.com/imdhruv_28" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
-    <a href="https://www.facebook.com/dhruv.prajapati.2899/" alt="Facebook"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/facebook.png"></a>
-    <a href="https://github.com/imdhruv99" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
+    <a href="https://twitter.com/Jerrie_25" alt="Twitter"><img src="https://github.com/jerrie-bright/jerrie-bright/blob/master/images/twitter.png"></a>
+    <a href="https://www.linkedin.com/in/jerriebright/" alt="Linkedin"><img src="https://github.com/jerrie-bright/jerrie-bright/blob/master/images/linkedin.png"></a>
+    <a href="https://www.instagram.com/jerrie_25/" alt="Instagram"><img src="https://github.com/jerrie-bright/jerrie-bright/blob/master/images/insta.png"></a>
+    <a href="https://m.facebook.com/jerrin.jerrin.5891?ref=bookmarks" alt="Facebook"><img src="https://github.com/jerrie-bright/jerrie-bright/blob/master/images/facebook.png"></a>
+    <a href="https://github.com/jerrie-bright" alt="GitHub"><img src="https://github.com/jerrie-bright/jerrie-bright/blob/master/images/github.png"></a>
 </p>
   
 </p>
