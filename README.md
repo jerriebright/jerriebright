@@ -7,8 +7,8 @@
 - How to reach me: https://jerrie-bright.github.io/
 - Writing ML Contributor. Check out my blogs: https://jerrie-bright.github.io/blog.html
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=jerrie-bright&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrie-bright&layout=compact&theme=tokyonight)](https://github.com/jerrie-bright/github-readme-stats)
+![My github stats](https://github-readme-stats.vercel.app/api?username=jerriebright&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerriebright&layout=compact&theme=tokyonight)](https://github.com/jerriebright/github-readme-stats)
 
 <hr>
 <p align="center">
