@@ -1,11 +1,11 @@
-### Hey there, I'm Jerrin!!! <a><img src="https://github.com/jerrie-bright/jerrie-bright/blob/main/image/wave.gif" width="30"></a>
+### Hey there, I'm Jerrin!!! <a><img src="https://github.com/jerriebright/jerriebright/blob/main/image/wave.gif" width="30"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a pre-final year B Tech Mechanical Engineer at VIT University, Chennai, India. Autonomous Systems and Robotic real-time perception are my prime area of interest
  <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I want to take up an exacting position in the industry, where I could work on R&D and traverse new paths in Intelligent Robotics. Bearing these long-term goals in mind, my immediate objective is to work on several prominent research activities that would boost my profile and my skills, whose importance in laying a strong foundation for a successful career in research is paramount.<br><br>
 
 - I’m currently working on Robotic Operating System for autonomous navigation of UAVs.
 - Open for Collaborations, Project Assistance, Pro bono and volunteering.
-- How to reach me: https://jerrie-bright.github.io/
-- Writing ML Contributor. Check out my blogs: https://jerrie-bright.github.io/blog.html
+- How to reach me: https://jerriebright.github.io/
+- Writing ML Contributor. Check out my blogs: https://jerriebright.github.io/blog.html
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jerriebright&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerriebright&layout=compact&theme=tokyonight)](https://github.com/jerriebright/github-readme-stats)
