@@ -1,6 +1,6 @@
 ### Hey there, I'm Jerrin!!! <a><img src="https://github.com/jerriebright/jerriebright/blob/main/image/wave.gif" width="30"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a pre-final year B Tech Mechanical Engineer at VIT University, Chennai, India. Autonomous Systems and Robotic real-time perception are my prime area of interest.
- <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I want to take up an exacting position in the industry, where I could work on R&D and traverse new paths in Intelligent Robotics. Bearing these long-term goals in mind, my immediate objective is to work on several prominent research activities that would boost my profile and my skills, whose importance in laying a strong foundation for a successful career in research is paramount.<br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jerrin is a versatile and self-motivated engineer pursing his junior year Bachelor’s degree from VIT, India. His research interests lie in the intersection of Autonomous Systems and Robotic Real-time Perception. He likes to develop autonomy stacks for self-driving cars, mobile robots, aerial vehicles (UAVs) and robotic arms. 
+ <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He has strong robot programming background (Python, ROS, C++). Hard work being his core pillar, combined with his practical experiences, Jerrin is someone you could count on to persevere through challenges. He is an ardent follower of cricket, chess and loves travelling. <br><br>
 
 - I’m currently working on Robotic Operating System for autonomous navigation of UAVs.
 - Open for Collaborations, Project Assistance, Pro bono and volunteering.
