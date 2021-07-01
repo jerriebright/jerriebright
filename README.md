@@ -1,6 +1,6 @@
 ### Hello!!! <a><img src="https://github.com/jerriebright/jerriebright/blob/main/image/wave.gif" width="30"></a>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow)
 
 Jerrin is a versatile and self-motivated engineer pursuing his junior year Bachelor’s degree from VIT, India. His research interests lie in the intersection of Autonomous Systems and Robotic Real-time Perception. He likes to develop autonomy stacks for self-driving cars, mobile robots, aerial vehicles (UAVs), and robotic arms. 
 
