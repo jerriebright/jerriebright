@@ -9,7 +9,7 @@ He has strong robot programming background (Python, ROS, C++). Hard work being h
 - I’m currently working on Robotic Operating System for autonomous navigation of UAVs.
 - Open for Collaborations, Project Assistance, Pro bono and volunteering.
 - How to reach me: https://jbright.tech/
-- Writing ML Contributor. Check out my blogs: https://jerriebright.github.io/blog.html
+- Writing ML Contributor. Check out my blogs: https://jbright.tech/blog.html
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jerriebright&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerriebright&layout=compact&theme=tokyonight)](https://github.com/jerriebright/github-readme-stats)
