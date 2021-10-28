@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow)
 
-Jerrin is a versatile and self-motivated engineer pursuing his junior year Bachelor’s degree from VIT, India. His research interests lie in the intersection of Autonomous Systems and Robotic Real-time Perception. He likes to develop autonomy stacks for self-driving cars, mobile robots, aerial vehicles (UAVs), and robotic arms. 
+I am a versatile and self-motivated engineer pursuing final year Bachelor’s degree from VIT, India. My current research interests lie in the intersection of Autonomous Systems and Robotic Real-time Perception. I like to develop autonomy stacks for aerial vehicles (UAVs), self-driving cars, mobile robots, and robotic arms.
 
-He has strong robot programming background (Python, ROS, C++). Hard work being his core pillar, combined with his practical experiences, Jerrin is someone you could count on to persevere through challenges. He is an ardent follower of cricket, chess and loves travelling. He has bagged research oppurtunities from prestigious universities in the world including McMaster University, Canada; Arizona State University, USA and Yuan-Ze University, Taiwan. He has also worked on industries some of those include Aero2Astro and BrainMagic InfoTech Pvt Ltd. He is a part of many NGOs including National Service Scheme (NSS) and Madras Scientific Research Foundation (MSRF).<br><br>
+I have strong robot programming background (Python, ROS, C++). Hard work being my core pillar, combined with practical experiences, I am someone you could count on to persevere through challenges. I am an ardent follower of cricket, chess and love travelling. I bagged research oppurtunities from prestigious universities in the world including McMaster University, Canada; Arizona State University, USA and Yuan-Ze University, Taiwan. I also worked on industries including Aero2Astro and BrainMagic InfoTech Pvt Ltd. I am part of NGOs including National Service Scheme (NSS) and Madras Scientific Research Foundation (MSRF).<br><br>
 
 - I’m currently working on Robotic Operating System for autonomous navigation of UAVs.
 - Open for Collaborations, Project Assistance, Pro bono and volunteering.
