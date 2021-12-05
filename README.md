@@ -16,7 +16,6 @@ I have strong robot programming background (Python, ROS, C++). Hard work being m
 
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
   <p align="center">
       <a href="https://twitter.com/Jerrie_25" alt="Twitter"><img src="https://github.com/jerriebright/jerriebright/blob/main/image/twitter.png"></a>
       <a href="https://www.linkedin.com/in/jerriebright/" alt="Linkedin"><img src="https://github.com/jerriebright/jerriebright/blob/main/image/linkedin.png"></a>
