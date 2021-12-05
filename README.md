@@ -11,8 +11,8 @@ I have strong robot programming background (Python, ROS, C++). Hard work being m
 - How to reach me: https://jbright.tech/
 - Writing ML Contributor. Check out my blogs: https://jbright.tech/blog.html
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=jerriebright&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerriebright&layout=compact&theme=tokyonight)](https://github.com/jerriebright/github-readme-stats)
+<!--![My github stats](https://github-readme-stats.vercel.app/api?username=jerriebright&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerriebright&layout=compact&theme=tokyonight)](https://github.com/jerriebright/github-readme-stats) -->
 
 <hr>
 <p align="center">
