@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow)
 
-I am a versatile and self-motivated engineer pursuing final year Bachelor’s degree from VIT, India. My current research interests lie in the intersection of Autonomous Systems and Robotic Real-time Perception. I like to develop autonomy stacks for aerial vehicles (UAVs), self-driving cars, mobile robots, and robotic arms.<br><br>
+I am a versatile and self-motivated engineer pursuing final year Bachelor’s degree from VIT, India. My current research interests lie in the intersection of Autonomous Systems and Robotic Real-time Perception. I like to develop autonomy stacks for aerial vehicles (UAVs), self-driving cars, mobile robots, and robotic arms.<br>
 
 - I’m currently working on Autonomous navigation of UAVs in cluttered environments.
 - Open for Collaborations, Project Assistance, Pro bono and Volunteering.
