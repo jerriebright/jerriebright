@@ -1,6 +1,6 @@
 ### Hello!!! <a><img src="https://github.com/jerriebright/jerriebright/blob/main/image/wave.gif" width="30"></a>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue) [![GitHub forks](https://badgen.net/github/forks/jerriebright/Strapdown.js/)](https://GitHub.com/jerriebright/StrapDown.js/network/) [![GitHub stars](https://badgen.net/github/stars/jerriebright/Strapdown.js)](https://GitHub.com/jerriebright/StrapDown.js/stargazers/)
+![](https://komarev.com/ghpvc/?username=jerriebright&color=blue) [![GitHub forks](https://badgen.net/github/forks/jerriebright/Strapdown.js/)](https://GitHub.com/jerriebright/StrapDown.js/network/) [![GitHub stars](https://badgen.net/github/stars/jerriebright/Strapdown.js)](https://GitHub.com/jerriebright/StrapDown.js/stargazers/)
 
 
 
