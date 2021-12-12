@@ -1,6 +1,8 @@
 ### Hello!!! <a><img src="https://github.com/jerriebright/jerriebright/blob/main/image/wave.gif" width="30"></a>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow) [![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/) [![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+
+
 
 I am a versatile and self-motivated engineer pursuing final year Bachelor’s degree from VIT, India. My current research interests lie in the intersection of Autonomous Systems and Robotic Real-time Perception. I like to develop autonomy stacks for aerial vehicles (UAVs), self-driving cars, mobile robots, and robotic arms.<br>
 
