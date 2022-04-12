@@ -4,7 +4,7 @@ I am a versatile and self-motivated engineer pursuing final year Bachelor’s de
 
 - I’m currently working on Autonomous navigation of UAVs in cluttered environments.
 - Open for Collaborations, Project Assistance, Pro bono and Volunteering.
-- How to reach me: https://jbright.tech/
+- How to reach me: https://jerriebright.github.io/
 
 <!--![My github stats](https://github-readme-stats.vercel.app/api?username=jerriebright&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerriebright&layout=compact&theme=tokyonight)](https://github.com/jerriebright/github-readme-stats) -->
