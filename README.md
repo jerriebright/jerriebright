@@ -1,8 +1,10 @@
 ### Hello!!! <a><img src="https://github.com/jerriebright/jerriebright/blob/main/image/wave.gif" width="30"></a>
 
-I am a versatile and self-motivated engineer pursuing final year Bachelor’s degree from VIT, India. My current research interests lie in the intersection of Autonomous Systems and Robotic Real-time Perception. I like to develop autonomy stacks for aerial vehicles (UAVs), self-driving cars, mobile robots, and robotic arms.<br>
+I am a versatile and self-motivated engineer pursuing Master of Applied Science at the UWaterloo in Systems Design Engineering. My current research interests include 3D Pose Estimation and Video Analysis. Thus, as a researcher at the Sports Analytics Research Group (SARG), Vision Image Processing Lab (VIPLab), UWaterloo, I am working on robust monocular human pose estimation using transformers for sports including Baseball and Ice-Hockey.<br>
 
-- I’m currently working on Autonomous navigation of UAVs in cluttered environments.
+As an undergraduate, at the Vellore Institute of Technology, I worked on end-to-end autonomous navigation of UAVs in unstructured and GPS denied environments leveraging learning approaches and cutting-edge deep learning algorithms. I am an avid cricket and chess enthusiast who also enjoys travelling and cycling. <br>
+
+- I’m currently working on 3D pose estimation for ice-hockey and baseball sports.
 - Open for Collaborations, Project Assistance, Pro bono and Volunteering.
 - How to reach me: https://jerriebright.github.io/
 
