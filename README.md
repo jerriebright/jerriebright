@@ -9,7 +9,7 @@ As an undergraduate, at the Vellore Institute of Technology, I worked on end-to-
 - How to reach me: https://jerriebright.github.io/
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jerriebright&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerriebright&layout=compact&theme=tokyonight)](https://github.com/jerriebright/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerriebright&layout=compact&theme=tokyonight)](https://github.com/jerriebright/github-readme-stats) -->
 
 <hr>
 <p align="center">
