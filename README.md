@@ -4,7 +4,7 @@ I am a versatile and self-motivated engineer pursuing PhD at UWaterloo in System
 
 How to reach me: https://jerrinbright.github.io/
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=jerrinbright&show_icons=true&theme=tokyonight)
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=jerrinbright&show_icons=true&theme=tokyonight)-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerriebright&layout=compact&theme=tokyonight)](https://github.com/jerriebright/github-readme-stats) -->
 
 <hr>
